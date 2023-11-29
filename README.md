@@ -61,15 +61,15 @@ Actually, all puzzles will have more than one solution, since you can rotate the
 ```
 With that in mind, the puzzle above has exactly two different solutions. Different solutions are represented as below, with a new line in between. These would be the solutions file for the sample puzzle:
 ```
-5 7 15 11
-9 16 4 3
-13 1 8 10
-14 2 6 12
+ 5  7 15 11
+ 9 16  4  3
+13  1  8 10
+14  2  6 12
 
-5 13 9 14
-2 1 16 7
-6 8 4 15
-12 10 3 11
+ 5 13  9 14
+ 2  1 16  7
+ 6  8  4 15
+12 10  3 11
 ```
 #### Rules: 
 - You need to use all the pieces and you can only use each piece once, (please note that there could be two identical pieces listed)
